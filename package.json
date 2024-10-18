@@ -1,12 +1,25 @@
 {
-  "name": "restful-api-nodejs",
+  "name": "sierrapablo-webapp-data-api",
   "version": "1.0.0",
   "description": "Template",
   "main": "app.js",
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "sierrapablo",
-  "license": "GPL-3.0"
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1"
+  },
+  "keywords": [],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sierrapablo/sierrapablo-webapp-data-api.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sierrapablo/sierrapablo-webapp-data-api/issues"
+  },
+  "homepage": "https://github.com/sierrapablo/sierrapablo-webapp-data-api#readme"
 }
